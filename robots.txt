@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vohhohwohc.swiftextendedlibrary.org/sitemap.xml
